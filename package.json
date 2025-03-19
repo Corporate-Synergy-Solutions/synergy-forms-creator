@@ -8,14 +8,18 @@
     "devDependencies": {
         "@vue/eslint-config-prettier": "^9.0.0",
         "@weweb/cli": "latest",
+        "css-loader": "^7.1.2",
         "eslint": "^9.8.0",
         "eslint-plugin-prettier": "^5.2.1",
         "eslint-plugin-vue": "^9.27.0",
-        "prettier": "^3.3.3"
+        "prettier": "^3.3.3",
+        "sass": "^1.86.0",
+        "sass-loader": "^16.0.5",
+        "style-loader": "^4.0.0"
     },
     "dependencies": {
-        "survey-core": "^2.0.0",
-        "survey-creator-core": "^2.0.0",
-        "survey-creator-vue": "^2.0.0"
+        "survey-core": "^2.0.1",
+        "survey-creator-core": "^2.0.1",
+        "survey-creator-vue": "^2.0.1"
     }
 }
